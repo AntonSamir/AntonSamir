@@ -3,7 +3,7 @@
 
 <!-- Image -->
 <p align="center">
-  <img src="D:/anton/7903569.jpg" alt="Profile Image" width="400"/>
+  <img src="https://www.freepik.com/free-vector/software-tester-concept-illustration_32044575.htm?log-in=google#fromView=keyword&page=1&position=0&uuid=7008bddd-bf17-459d-8310-a84dee8e11eb&new_detail=true" alt="Profile Image" width="400"/>
 </p>
 
 <!-- About Me Section -->
