@@ -3,7 +3,7 @@
 
 <!-- Image -->
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/assets/yourimage.png" alt="Profile Image" width="400"/>
+  <img src="D:/anton/7903569.jpg" alt="Profile Image" width="400"/>
 </p>
 
 <!-- About Me Section -->
